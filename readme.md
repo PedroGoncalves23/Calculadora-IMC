@@ -11,9 +11,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML]
 - [CSS]
 
-
-* SignUp Mobile
-
+---
 ![SignUp Mobile](imc.png)
 
 ---
